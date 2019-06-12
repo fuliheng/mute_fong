@@ -1,0 +1,28 @@
+{
+  "name": "Muted",
+  "socket": {
+    "ip": "127.0.0.1",
+    "port": 4003
+  },
+  "root": {
+    "data": "./.muted/data",
+    "log": "./.muted/log"
+  },
+  "data": {
+    "baggage": "baggage",
+    "brief": "brief",
+    "desc": "desc",
+    "exit": "exit",
+    "genus": "genus",
+    "level": "level",
+    "name": "name",
+    "passer": "passer",
+    "npc": "npc",
+    "role": "role",
+    "room": "room"
+  },
+  "log": {
+    "config": "config.json",
+    "file": "muted.log"
+  }
+}
